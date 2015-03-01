@@ -1,7 +1,7 @@
 Program blackjack (input,output);
 (* Herrero Arnanz, Javier *)
 (* Tejero de Pablos, Miguel Angel *)
-(* Enero 2010 - Programacion I - UVa*)
+(* Enero 2010 - Programacion I - UVa *)
 
 (*Programa que permite al usuario jugar una serie de partidas de una versión simplificada del BlackJack*)
 
